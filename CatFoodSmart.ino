@@ -3,7 +3,8 @@
  * LinkedIn: https://www.linkedin.com/in/ricardos7/
  * GitHub: https://github.com/Ricardo-SS
  * URL da biblioteca: https://github.com/Ricardo-SS/CatFoodSmart
- * Descrição: Este exemplo calcula o volume total e o volume disponível de um reservatório em forma de cone.
+ * Funcionalidade: Esse projeto é para criar um alimentador altomatico para alimentar o seu gato, ele tem conexão wifi e o horário é configurando através de uma aplicação web.
+ * Descrição: Este código é para ser usado em um esp8266 como esta, ou em um esp32 fazendo algumas pequenas alterações, o codigo ainda nao está pronto pois encontra-se em desenvolvimento e no atual momento está parado devido questões de tempo.
 */
 
 #include <FS.h>                // FS: https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266FS
